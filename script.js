@@ -47,7 +47,7 @@ if (user !=null){
         }
 
 
-        if(hrs>12){
+        if(hrs>24){
           hrs = hrs - 12;
         }
         if (hrs == 0){

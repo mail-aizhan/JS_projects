@@ -2,10 +2,7 @@ body {
   background: rgb(57, 171, 199);
   
 }
-.container{
-  padding: 0;
-  margin: 0;
-}
+
 .clock {
   position: relative;
   text-align: center;
