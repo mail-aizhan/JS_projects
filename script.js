@@ -40,10 +40,10 @@ if (user !=null){
                             break; 
             }
 
-        let en = "AM";
+        let en = "PM";
 
         if(hrs > 12){
-          en ="PM";
+          en ="AM";
         }
 
 
